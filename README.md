@@ -9,6 +9,8 @@ Aplikasi absensi pegawai berbasis web menggunakan React (Frontend) dan Node.js +
 - Melihat data presensi semua pegawai
 - Melihat data pegawai
 - Mengelola pengajuan cuti (setujui/tolak)
+- CRUD data pegawai
+- menambah keterangan sakit, izin, aplha pada pegawai
 
 ### Pegawai
 - Absen datang dengan lokasi GPS
