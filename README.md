@@ -53,6 +53,7 @@ Pastikan MySQL sudah terinstall, lalu jalankan query SQL dari file `db.md`:
 ```sql
 -- Copy semua query dari db.md dan jalankan di MySQL
 ```
+atau gunakan SQL pada folder db_absensi_pegawai
 
 ### 2. Setup Backend
 
