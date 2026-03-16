@@ -1,0 +1,3 @@
+INSERT INTO `presensi` (`id_presensi`, `id_user`, `tanggal`, `jam_datang`, `jam_pulang`, `lokasi_gps`, `keterangan`, `catatan`, `status_kehadiran`) VALUES (1, 4, '2026-03-15', '04:49:14', NULL, '-3.7679218,103.8035251', 'Hadir', NULL, 'Tepat Waktu');
+INSERT INTO `presensi` (`id_presensi`, `id_user`, `tanggal`, `jam_datang`, `jam_pulang`, `lokasi_gps`, `keterangan`, `catatan`, `status_kehadiran`) VALUES (2, 5, '2026-03-15', '05:10:28', NULL, '-3.7617552,103.804974', 'Hadir', NULL, 'Tepat Waktu');
+INSERT INTO `presensi` (`id_presensi`, `id_user`, `tanggal`, `jam_datang`, `jam_pulang`, `lokasi_gps`, `keterangan`, `catatan`, `status_kehadiran`) VALUES (3, 5, '2026-03-16', NULL, NULL, NULL, 'Izin', 'izin', 'Tepat Waktu');
